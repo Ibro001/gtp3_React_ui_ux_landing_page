@@ -1,3 +1,27 @@
+# GPT-3 Website Landing Page
+There's no doubt that GPT-3 is one of the trending topic's in the tech ecosystem right now and 
+in this project i showcase my React.js skill by transforming a figma design into a beautiful and well designed 
+GPT-3 website landing page that aims to introduce GPT-3 Technology to client.
+
+React.js was utilized for this project due to it high performance when it come's to building responsive website and
+web based applications.
+CSS was used to styled the app using the Block Element Method (BEM) approach because it helps developers better understand the relationship between the HTML and CSS  in a given project as well as it help developers write clean, well organized and maintainable CSS and speeds up the development process.
+For the icons, the react-icon library icons were used as they have a low build size.
+
+# Demo
+
+`The link to the live website:`
+
+https://gpt-3-page.netlify.app/
+## Tech Stack
+**Client:** React, CSS
+## Features
+
+- React functional component and their reusability.
+- React file and folder structure
+- CSS BEM model
+- Soft and pleasant animation
+- Complex gradient
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -14,57 +38,33 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
-### `npm test`
+## Screenshots
+`The Hero Section`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![header](https://user-images.githubusercontent.com/48089134/233859854-fba03070-887b-42f2-afd7-f3564130dd2e.png)
 
-### `npm run build`
+`The  About WhatGPT3 Section`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![whatGPT3](https://user-images.githubusercontent.com/48089134/233859865-10ea263d-a4ff-4cec-a0d9-92039ed2f5f8.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+`The Feature Section`
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![feature](https://user-images.githubusercontent.com/48089134/233859908-0f0b46df-c763-4f19-b55e-0eae15f2f937.png)
 
-### `npm run eject`
+`The Blog Section`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+![blog](https://user-images.githubusercontent.com/48089134/233859894-6eca989b-25ac-494b-b820-70f8cd251c27.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`The Possibility Section`
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![possibility](https://user-images.githubusercontent.com/48089134/233859882-f0588396-910f-467b-abbf-69622cda8f15.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+`The Footer Section`
 
-## Learn More
+![footer](https://user-images.githubusercontent.com/48089134/233859914-0dce5b6f-c98c-4de1-a0a2-f91481d37e48.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Contributing
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Contributions are highly appreciated!
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+`Kindly send a pull request and I will review them with immediate effect`
